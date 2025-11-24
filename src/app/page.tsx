@@ -5,7 +5,7 @@ const addons = [
     name: "GeoFS Radar",
     desc: "Live radar view of online aircraft inside GeoFS.",
     repo: "https://github.com/mansoorbarri/geofs-radar",
-    install: "https://xyzmani.com/radar",
+    install: "https://github.com/mansoorbarri/geofs-radar/raw/refs/heads/main/geofs-radar.user.js",
     live: "https://radar.xyzmani.com",
   },
   {
@@ -18,7 +18,7 @@ const addons = [
     name: "GeoFS Charts",
     desc: "Quick access to real‑world airport charts and navigational aids in‑game.",
     repo: "https://github.com/mansoorbarri/geofs-charts",
-    install: "https://xyzmani.com/charts",
+    install: "https://github.com/mansoorbarri/geofs-charts/raw/refs/heads/main/geofs-charts.user.js",
   },
 ];
 
