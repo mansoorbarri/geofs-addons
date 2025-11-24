@@ -17,7 +17,7 @@ const addons = [
   {
     name: "GeoFS Charts",
     desc: "Quick access to real‑world airport charts and navigational aids in‑game.",
-    repo: "https://github.com/yourusername/geofs-charts",
+    repo: "https://github.com/mansoorbarri/geofs-charts",
     install: "https://xyzmani.com/charts",
   },
 ];
