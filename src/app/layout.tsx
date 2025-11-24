@@ -3,8 +3,7 @@ import { type Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "GeoFS Addons Hub",
-  description:
-    "Explore community-built addons for GeoFS: Radar, VStrips, Charts, and Tab-Key.",
+  description: "A center for GeoFS addons developed by xyzmani"
 };
 
 export default function RootLayout({
