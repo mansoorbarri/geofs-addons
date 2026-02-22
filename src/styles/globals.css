@@ -11,7 +11,8 @@ html, body {
 }
 
 ::selection {
-  background-color: #bfdbfe; /* soft blue highlight */
+  background-color: #1d4ed8;
+  color: #e2e8f0;
 }
 
 @layer base {
